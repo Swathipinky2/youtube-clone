@@ -4,6 +4,8 @@
 
 This YouTube Clone project is a web application built using HTML and CSS to replicate the core features and user interface of the popular video-sharing platform, YouTube. It allows users to browse videos, watch them, and view and post comments. This README will provide information on how to set up and run the project.
 
+Project Link: https://swathipinky2.github.io/youtube-clone/
+
 ## Getting Started
 
 Follow these steps to get started with the YouTube Clone project:
